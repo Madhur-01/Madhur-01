@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Madhur-01
-- 👀 I’m interested in use of Maachine Learning and AI in different domains like Finance, NLP etc.
+- 👀 I’m interested in use of Machine Learning and AI in different domains like Finance, NLP etc.
 - 🌱 I’m currently learning Machine Learning, Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
